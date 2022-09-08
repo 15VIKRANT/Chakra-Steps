@@ -1,2 +1,2 @@
 # chakrastep
-Created with CodeSandbox
+Created with Chakra UI steps
